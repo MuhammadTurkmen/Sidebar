@@ -5,3 +5,7 @@ const closeBtn = document.querySelector('.close-btn')
 toggleBtn.addEventListener('click', function() {
     sidebar.classList.toggle('show-sidebar')
 })
+
+closeBtn.addEventListener('click', function() {
+    
+})
